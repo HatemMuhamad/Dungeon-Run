@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: a06b610e33055354ca5a2720be5bd72c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sword_Three_Particle_0
+    21300002: Sword_Three_Particle_1
+    21300004: Sword_Three_Particle_2
+    21300006: Sword_Three_Particle_3
+    21300008: Sword_Three_Particle_4
+    21300010: Sword_Three_Particle_5
+    21300012: Sword_Three_Particle_6
+    21300014: Sword_Three_Particle_7
+    21300016: Sword_Three_Particle_8
+    21300018: Sword_Three_Particle_9
+    21300020: Sword_Three_Particle_10
+    21300022: Sword_Three_Particle_11
+    21300024: Sword_Three_Particle_12
+    21300026: Sword_Three_Particle_13
+    21300028: Sword_Three_Particle_14
+    21300030: Sword_Three_Particle_15
+    21300032: Sword_Three_Particle_16
+    21300034: Sword_Three_Particle_17
+    21300036: Sword_Three_Particle_18
+    21300038: Sword_Three_Particle_19
+    21300040: Sword_Three_Particle_20
+    21300042: Sword_Three_Particle_21
+    21300044: Sword_Three_Particle_22
+    21300046: Sword_Three_Particle_23
+    21300048: Sword_Three_Particle_24
+    21300050: Sword_Three_Particle_25
+    21300052: Sword_Three_Particle_26
+    21300054: Sword_Three_Particle_27
+    21300056: Sword_Three_Particle_28
+    21300058: Sword_Three_Particle_29
+    21300060: Sword_Three_Particle_30
+    21300062: Sword_Three_Particle_31
+    21300064: Sword_Three_Particle_32
+    21300066: Sword_Three_Particle_33
+    21300068: Sword_Three_Particle_34
+    21300070: Sword_Three_Particle_35
+    21300072: Sword_Three_Particle_36
+    21300074: Sword_Three_Particle_37
+    21300076: Sword_Three_Particle_38
+    21300078: Sword_Three_Particle_39
+    21300080: Sword_Three_Particle_40
+    21300082: Sword_Three_Particle_41
+    21300084: Sword_Three_Particle_42
+    21300086: Sword_Three_Particle_43
+    21300088: Sword_Three_Particle_44
+    21300090: Sword_Three_Particle_45
+    21300092: Sword_Three_Particle_46
+    21300094: Sword_Three_Particle_47
+    21300096: Sword_Three_Particle_48
+    21300098: Sword_Three_Particle_49
+    21300100: Sword_Three_Particle_50
+    21300102: Sword_Three_Particle_51
+    21300104: Sword_Three_Particle_52
+    21300106: Sword_Three_Particle_53
+    21300108: Sword_Three_Particle_54
+    21300110: Sword_Three_Particle_55
+    21300112: Sword_Three_Particle_56
+    21300114: Sword_Three_Particle_57
+    21300116: Sword_Three_Particle_58
+    21300118: Sword_Three_Particle_59
+    21300120: Sword_Three_Particle_60
+    21300122: Sword_Three_Particle_61
+    21300124: Sword_Three_Particle_62
+    21300126: Sword_Three_Particle_63
+    21300128: Sword_Three_Particle_64
+    21300130: Sword_Three_Particle_65
+    21300132: Sword_Three_Particle_66
+    21300134: Sword_Three_Particle_67
+    21300136: Sword_Three_Particle_68
+    21300138: Sword_Three_Particle_69
+    21300140: Sword_Three_Particle_70
+    21300142: Sword_Three_Particle_71
+    21300144: Sword_Three_Particle_72
+    21300146: Sword_Three_Particle_73
+    21300148: Sword_Three_Particle_74
+    21300150: Sword_Three_Particle_75
+    21300152: Sword_Three_Particle_76
+    21300154: Sword_Three_Particle_77
+    21300156: Sword_Three_Particle_78
+    21300158: Sword_Three_Particle_79
+    21300160: Sword_Three_Particle_80
+    21300162: Sword_Three_Particle_81
+    21300164: Sword_Three_Particle_82
+    21300166: Sword_Three_Particle_83
+    21300168: Sword_Three_Particle_84
+    21300170: Sword_Three_Particle_85
+    21300172: Sword_Three_Particle_86
+    21300174: Sword_Three_Particle_87
+    21300176: Sword_Three_Particle_88
+    21300178: Sword_Three_Particle_89
+    21300180: Sword_Three_Particle_90
+    21300182: Sword_Three_Particle_91
+    21300184: Sword_Three_Particle_92
+    21300186: Sword_Three_Particle_93
+    21300188: Sword_Three_Particle_94
+    21300190: Sword_Three_Particle_95
+    21300192: Sword_Three_Particle_96
+    21300194: Sword_Three_Particle_97
+    21300196: Sword_Three_Particle_98
+    21300198: Sword_Three_Particle_99
+    21300200: Sword_Three_Particle_100
+    21300202: Sword_Three_Particle_101
+    21300204: Sword_Three_Particle_102
+    21300206: Sword_Three_Particle_103
+    21300208: Sword_Three_Particle_104
+    21300210: Sword_Three_Particle_105
+    21300212: Sword_Three_Particle_106
+    21300214: Sword_Three_Particle_107
+    21300216: Sword_Three_Particle_108
+    21300218: Sword_Three_Particle_109
+    21300220: Sword_Three_Particle_110
+    21300222: Sword_Three_Particle_111
+    21300224: Sword_Three_Particle_112
+    21300226: Sword_Three_Particle_113
+    21300228: Sword_Three_Particle_114
+    21300230: Sword_Three_Particle_115
+    21300232: Sword_Three_Particle_116
+    21300234: Sword_Three_Particle_117
+    21300236: Sword_Three_Particle_118
+    21300238: Sword_Three_Particle_119
+    21300240: Sword_Three_Particle_120
+    21300242: Sword_Three_Particle_121
+    21300244: Sword_Three_Particle_122
+    21300246: Sword_Three_Particle_123
+    21300248: Sword_Three_Particle_124
+    21300250: Sword_Three_Particle_125
+    21300252: Sword_Three_Particle_126
+    21300254: Sword_Three_Particle_127
+    21300256: Sword_Three_Particle_128
+    21300258: Sword_Three_Particle_129
+    21300260: Sword_Three_Particle_130
+    21300262: Sword_Three_Particle_131
+    21300264: Sword_Three_Particle_132
+    21300266: Sword_Three_Particle_133
+    21300268: Sword_Three_Particle_134
+    21300270: Sword_Three_Particle_135
+    21300272: Sword_Three_Particle_136
+    21300274: Sword_Three_Particle_137
+    21300276: Sword_Three_Particle_138
+    21300278: Sword_Three_Particle_139
+    21300280: Sword_Three_Particle_140
+    21300282: Sword_Three_Particle_141
+    21300284: Sword_Three_Particle_142
+    21300286: Sword_Three_Particle_143
+    21300288: Sword_Three_Particle_144
+    21300290: Sword_Three_Particle_145
+    21300292: Sword_Three_Particle_146
+    21300294: Sword_Three_Particle_147
+    21300296: Sword_Three_Particle_148
+    21300298: Sword_Three_Particle_149
+    21300300: Sword_Three_Particle_150
+    21300302: Sword_Three_Particle_151
+    21300304: Sword_Three_Particle_152
+    21300306: Sword_Three_Particle_153
+    21300308: Sword_Three_Particle_154
+    21300310: Sword_Three_Particle_155
+    21300312: Sword_Three_Particle_156
+    21300314: Sword_Three_Particle_157
+    21300316: Sword_Three_Particle_158
+    21300318: Sword_Three_Particle_159
+    21300320: Sword_Three_Particle_160
+    21300322: Sword_Three_Particle_161
+    21300324: Sword_Three_Particle_162
+    21300326: Sword_Three_Particle_163
+    21300328: Sword_Three_Particle_164
+    21300330: Sword_Three_Particle_165
+    21300332: Sword_Three_Particle_166
+    21300334: Sword_Three_Particle_167
+    21300336: Sword_Three_Particle_168
+    21300338: Sword_Three_Particle_169
+    21300340: Sword_Three_Particle_170
+    21300342: Sword_Three_Particle_171
+    21300344: Sword_Three_Particle_172
+    21300346: Sword_Three_Particle_173
+    21300348: Sword_Three_Particle_174
+    21300350: Sword_Three_Particle_175
+    21300352: Sword_Three_Particle_176
+    21300354: Sword_Three_Particle_177
+    21300356: Sword_Three_Particle_178
+    21300358: Sword_Three_Particle_179
+    21300360: Sword_Three_Particle_180
+    21300362: Sword_Three_Particle_181
+    21300364: Sword_Three_Particle_182
+    21300366: Sword_Three_Particle_183
+    21300368: Sword_Three_Particle_184
+    21300370: Sword_Three_Particle_185
+    21300372: Sword_Three_Particle_186
+    21300374: Sword_Three_Particle_187
+    21300376: Sword_Three_Particle_188
+    21300378: Sword_Three_Particle_189
+    21300380: Sword_Three_Particle_190
+    21300382: Sword_Three_Particle_191
+    21300384: Sword_Three_Particle_192
+    21300386: Sword_Three_Particle_193
+    21300388: Sword_Three_Particle_194
+    21300390: Sword_Three_Particle_195
+    21300392: Sword_Three_Particle_196
+    21300394: Sword_Three_Particle_197
+    21300396: Sword_Three_Particle_198
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword_Three_Particle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ce882f0a14954aa48b2de9d688c9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Three_Particle_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bc082735a4e2f4cb0b1a35a3b6cf80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Three_Particle_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d5d3c64020bea4ca1201f78bb13d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Three_Particle_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0888751d661c1ca449754a2040d2ff59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Three_Particle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1802c2d641f13cf4b8cad03175759e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Three_Particle_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a21552321858e45857bd505a48a89c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Three_Particle_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003550b4ba8e81940b1edaabd47c31bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Three_Particle_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48a8d21d0fef734f83fcbfc873ecd41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e74df8b92915633489536696127c4cfb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
